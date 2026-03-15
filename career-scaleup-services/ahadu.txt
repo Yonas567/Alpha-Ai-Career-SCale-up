@@ -1,0 +1,41 @@
+background is black
+subdomain should be
+user.careerscaleup.com 
+
+changing color
+upload photo
+drag and drop
+apply the changes on analysis area
+in cover letter manual entry--->build cover letter
+
+if someone have cover letter before we have to optmize that also
+
+admin area
+
+notification
+email notification
+
+
+
+
+
+dec/13/2025
+
+-white mode ui modification
+-blogs on landing page
+-testominals --->refernces
+-attach resume in message area ats
+-recommandation in email for both side
+-company name on ai interview
+-what about the qns in voices
+
+dec 21 
+-microsoft document
+
+-new signups per today,week,month
+
+-daily attempts
+
+-coverletters
+
+-file attach
